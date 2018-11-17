@@ -1,0 +1,74 @@
+Kingdoms Geomod Base Folder by Gigantus
+
+FEATURES:
+- Fully functional Grand Campaign with Kingdoms features
+- All files for use with Geomod included
+- Converter provided for string.bin files (needs Python less then version 2.7)
+- Basic errors removed (Ragusa Bug, Mongols winning)
+- All factions unlocked
+
+LINKS:
+Geomod - http://www.twcenter.net/forums/showthread.php?p=3894857#post3894857
+Python 2.6.6 - for 'regular' operating system - https://www.python.org/ftp/python/2.6.6/python-2.6.6.msi
+Python 2.6.6 - for 64 bit operating system - https://www.python.org/ftp/python/2.6.6/python-2.6.6.amd64.msi
+
+VERSION History:
+2.1.01
+- Converted universal BAT file to EXE (universal start.exe)
+- enabled full width historic event movies
+- Moved log back to default log (to = system.log.txt) to prevent occasional non writing
+- Corrected descr_faction_standing when occupying a settlement penalizes reputation
+2.1.0
+- Converted all files to lowercase for Linux\Mac use
+2.04
+- Added file verification after installation
+- Provided missing descr_faction_movies file for custom campaigns
+2.03 
+- DOS window will display error message at mod start if installed into wrong path
+- added cleaned up descr_characters and descr_model_strat files
+- commented all CFG file entries
+- intro movies re-enabled
+- windowed mode disabled again
+2.02
+- corrected text errors and incorrect symbol placements
+2.01
+- added text files for sound IDX\DAT file generating
+2.0
+- enabled custom campaigns for single player
+- enabled custom campaigns for hotseat
+- added 'Moghul' and 'Shogun' basic custom campaigns (from Gig's Map Collection)
+- intro movies disabled
+- windowed mode enabled
+- removed 'Tutorial' menu option (Norman prologue)
+1.15
+- enabled the display of 29 playable factions
+- revised Steam compatibility, no further action is required to use with Steam or 'regular'
+- no further false positives by AV programs
+1.14
+- resolved false positives from Anti Virus programs
+1.13
+- split desktop shortcuts for steam and non-steam
+1.12
+- fixed missing reinforcement portrait
+1.11
+- corrected 'square smoke trails'
+1.10
+- corrected UI bug with re-inforcements
+1.09
+- corrected tooltips.txt
+1.08
+- added a steam compatible mini launcher
+1.07
+- corrected rocket entry in descr_projectile as it was flying upright
+1.06
+- There was an error disabling winter on the strat map when applying the 1.04 corrections
+1.05
+- Corrected the siege ladder bug again
+1.04
+- Corrected the 'dark hole' appearance of dense tropical forest
+1.03
+- Added directory structure for the battle editor (returns to menu otherwise)
+1.02
+- Corrected the siege ladder bug
+1.01
+- Added descr_event_images from kingdoms to enable the YES\NO event
